@@ -1,0 +1,12 @@
+{
+    "name": "MercunaEditor",
+    "references": [
+        "Mercuna"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
